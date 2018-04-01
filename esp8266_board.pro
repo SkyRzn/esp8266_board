@@ -1,4 +1,4 @@
-update=Sun Mar 25 18:38:01 2018
+update=Пн 26 мар 2018 10:17:04
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,4 +58,5 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=kicad-ESP8266/ESP8266
+LibName30=/home/sky/kicad/libraries/kicad-ESP8266/ESP8266
+LibName31=/home/sky/kicad/libraries/kicad-library/library/AMS1117-3V3
